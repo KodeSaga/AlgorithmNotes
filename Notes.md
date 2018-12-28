@@ -1,3 +1,6 @@
 # 28-Dec-2018
 ## Monty Hall problem
-The Monty Hall problem is a brain teaser, in the form of a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed (and solved) in a letter by Steve Selvin to the American Statistician in 1975.
+Sahil hosts a game . 3 Closed door ..Behind  Door A - Fried chicken - Door B and C - have Boiled broccoli. 
+Amit wants to chicken and chooses chooses Door B ... Sahil opens Door C and shows him it has broccoli, asks Amit if he wants to change his choice to A. 
+** Should Amit Change his Door **
+Yes as the probabilty of A being door with fried chicken has now increased to 2/3.
