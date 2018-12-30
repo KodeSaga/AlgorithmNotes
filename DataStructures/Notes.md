@@ -4,9 +4,7 @@ list of terms relating to algorithms and data structures](https://en.wikipedia.o
 
 time a subset of this list 
 
-see [
-
-comparison of data structures](https://en.wikipedia.org/wiki/Comparison_of_data_structures).
+see [comparison of data structures](https://en.wikipedia.org/wiki/Comparison_of_data_structures).
 
 ### Contents
 
